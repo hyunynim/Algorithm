@@ -1,0 +1,16 @@
+
+.vs/Algorithm/v16/.suo
+*.db
+*.opendb
+*.sln
+*.log
+*.ilk
+*.pdb
+*.tlog
+*.user
+*.filters
+*.vcxproj
+*.ipch
+*.obj
+*.exe
+*.idb
